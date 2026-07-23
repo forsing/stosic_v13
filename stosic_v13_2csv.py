@@ -110,8 +110,8 @@ if __name__ == "__main__":
 
 
 """
-next_loto:       [6, 8, 16, 22, 27, 30, 39]
-next_loto_plus:  [3, 6, 9, 13, 18, 20, 21]
+next_loto:       [6, x, 16, y, 27, z, 39]
+next_loto_plus:  [3, x, 9, y, 18, z, 21]
 """
 
 
